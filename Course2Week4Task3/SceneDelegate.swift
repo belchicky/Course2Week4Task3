@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Course2Week4Task3
 //
-//  Created by Konstantins Belcickis on 17/02/2020.
+//  Created by Konstantins Belcickis on 15/02/2020.
 //  Copyright © 2020 Konstantins Belcickis. All rights reserved.
 //
 
